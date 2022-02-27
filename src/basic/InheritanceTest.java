@@ -3,6 +3,12 @@ package basic;
 import java.io.InputStreamReader;
 import java.util.Scanner;
 
+/**
+ *
+ * One program to test single inheritance *
+ */
+
+
 public class InheritanceTest {
     public static void main(String[] args) {
         Phone ph;
