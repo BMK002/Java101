@@ -1,6 +1,6 @@
 package basic;
 
-public class MainClass {//main class
+class MainClass {//main class
     static String text="test";
 
     void printText(){
