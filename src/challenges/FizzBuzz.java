@@ -15,8 +15,9 @@ public class FizzBuzz {
             result="Fizz";
         else if((num%5==0)&&(num%3!=0))
             result="Buzz";
-        else if((num%3==0)&&(num%5==0))
+        else
             result="FizzBuzz";
+
         return result;
     }
 
